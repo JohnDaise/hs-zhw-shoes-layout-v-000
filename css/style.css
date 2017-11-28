@@ -187,7 +187,8 @@ iframe {
 
 .social {
 	border-right: 1px dotted #ccc;
-  padding: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
 	float: left;
 	width: 29.333%;
   margin-left: 4%;
