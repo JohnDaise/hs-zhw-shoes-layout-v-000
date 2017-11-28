@@ -161,14 +161,14 @@ iframe {
 
 .contact {
 	border-right: 1px dotted #ccc;
-	padding: 1%;
+	padding: 2%;
 	float: left;
 	width: 30.333%;
 }
 
 .links {
 	border-right: 1px dotted #ccc;
-  padding: 1%;
+  padding: 2%;
 	float: left;
 	width: 30.333%;
 
@@ -176,7 +176,7 @@ iframe {
 
 .social {
 	border-right: 1px dotted #ccc;
-  padding: 1%;
+  padding: 2%;
 	float: left;
 	width: 30.333%;
 }
