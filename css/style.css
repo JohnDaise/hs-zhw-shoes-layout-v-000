@@ -168,7 +168,9 @@ iframe {
 
 .links {
 	border-right: 1px dotted #ccc;
-	padding: 3%;
+  padding-left: 
+  padding-right: 3%;
+  padding-top: 
 	float: left;
 	width: 31.333%;
 
@@ -176,7 +178,9 @@ iframe {
 
 .social {
 	border-right: 1px dotted #ccc;
-	padding-right: 5%;
+  padding-left: 
+  padding-right: 5%;
+  padding-top: 
 	float: left;
 	width: 31.333%;
 }
